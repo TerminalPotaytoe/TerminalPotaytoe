@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TerminalPotaytoe
 - 👀 I’m interested in Coding and making games! :D
-- 🌱 I’m currently learning Java and GDScript
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JS and TS
+- 📫 How to reach me: email
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I am a human :O
